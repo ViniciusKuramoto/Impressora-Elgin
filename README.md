@@ -1,14 +1,14 @@
 # 🖨️ Controle da Impressora Térmica Elgin i8 / i9 em C
-### *(Coloque aqui o nome do seu projeto)*
+### *Menu Elgin*
 ---
 
 ## 📘 Sobre o Projeto
 
-Este projeto foi desenvolvido por alunos com o objetivo de criar um programa em **linguagem C** capaz de controlar uma impressora térmica **Elgin i8 ou i9**, usando a biblioteca oficial da Elgin (`E1_Impressora01.dll`).
+Este projeto foi desenvolvido com o objetivo de criar um programa em **linguagem C** capaz de controlar uma impressora térmica **Elgin i8 ou i9**, usando a biblioteca oficial da Elgin (`E1_Impressora01.dll`).
 
 O programa pede **login**, mostra um **menu** em laço e permite configurar e abrir a conexão com a impressora, imprimir texto, QR Code, código de barras e cupons XML SAT, abrir a gaveta de dinheiro e emitir sinal sonoro. Todo o código fica no arquivo `main.c`.
 
-O trabalho faz parte da disciplina de **Programação em C**.
+O trabalho faz parte da disciplina de Construção de algoritimos e programação.
 
 ---
 
@@ -150,8 +150,6 @@ São permitidas no máximo **3 tentativas**. O programa avisa quantas tentativas
 ---
 
 ## 👥 Autores
-*(em ordem alfabética)*
 
-- Nome do Integrante 1
-- Nome do Integrante 2
-- Nome do Integrante 3
+- Vinicius Ikeda Kuramoto
+
