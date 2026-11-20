@@ -149,7 +149,7 @@ São permitidas no máximo **3 tentativas**. O programa avisa quantas tentativas
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 
 - Vinicius Ikeda Kuramoto
 
